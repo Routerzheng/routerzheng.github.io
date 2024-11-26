@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://vblog-git-main-routerzhengs-projects.vercel.app</id>
+    <title>RouterZheng 产品经理BLog</title>
+    <updated>2024-11-26T10:12:05.544Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://vblog-git-main-routerzhengs-projects.vercel.app"/>
+    <link rel="self" href="https://vblog-git-main-routerzhengs-projects.vercel.app/atom.xml"/>
+    <subtitle>&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;团队介绍&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            font-size: 200%; /* Increased font size by 4 times */
+        }
+        .team-section {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; 
+        }
+        .team-member {
+            width: 200px;
+            margin: 10px;
+            text-align: center;
+            border: 1px solid #ccc;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+        .team-member h3 {
+            margin-top: 0;
+        }
+        /* Responsive adjustments for smaller screens */
+        @media (max-width: 600px) {
+            .team-member {
+                width: 100%;
+            }
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+    &lt;h1&gt;核心团队&lt;/h1&gt;
+    &lt;div class=&quot;team-section&quot;&gt;
+        &lt;div class=&quot;team-member&quot;&gt;
+            &lt;h3&gt;产品&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;team-member&quot;&gt;
+            &lt;h3&gt;设计&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;team-member&quot;&gt;
+            &lt;h3&gt;架构&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;team-member&quot;&gt;
+            &lt;h3&gt;营销&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;team-member&quot;&gt;
+            &lt;h3&gt;增长&lt;/h3&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</subtitle>
+    <logo>https://vblog-git-main-routerzhengs-projects.vercel.app/images/avatar.png</logo>
+    <icon>https://vblog-git-main-routerzhengs-projects.vercel.app/favicon.ico</icon>
+    <rights>All rights reserved 2024, RouterZheng 产品经理BLog</rights>
+    <entry>
+        <title type="html"><![CDATA[下面👇👇是所有文章总列表，左侧的分类下文章不完整]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/xia-mian-orshi-suo-you-wen-zhang-zong-lie-biao-zuo-ce-de-fen-lei-xia-wen-zhang-bu-wan-zheng/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/xia-mian-orshi-suo-you-wen-zhang-zong-lie-biao-zuo-ce-de-fen-lei-xia-wen-zhang-bu-wan-zheng/">
+        </link>
+        <updated>2024-09-24T15:57:02.000Z</updated>
+        <content type="html"><![CDATA[<p>请看这个完整列表</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画像标签体系和人群包引擎]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/hua-xiang-biao-qian-ti-xi-he-ren-qun-bao-yin-qing/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/hua-xiang-biao-qian-ti-xi-he-ren-qun-bao-yin-qing/">
+        </link>
+        <updated>2023-09-24T15:38:27.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表</p>
+<figure data-type="image" tabindex="1"><img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732462737380.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732462742738.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[付费会员权益]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/fu-fei-hui-yuan-quan-yi/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/fu-fei-hui-yuan-quan-yi/">
+        </link>
+        <updated>2023-04-21T15:23:26.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732461846444.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精准营销&留存项目——老客留存]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/5/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/5/">
+        </link>
+        <updated>2023-04-11T14:55:54.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732461786511.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[积分体系]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/ji-fen-ti-xi/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/ji-fen-ti-xi/">
+        </link>
+        <updated>2023-02-24T15:27:03.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732462034144.jpg" alt="" loading="lazy"></p>
+<p>一</p>
+<figure data-type="image" tabindex="1"><img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732462041394.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精准营销——新人群体分层营销]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/4/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/4/">
+        </link>
+        <updated>2023-02-24T14:55:50.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732461735125.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[促活项目—新人专区，新人三优惠券任务，新人神券]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/3/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/3/">
+        </link>
+        <updated>2023-01-24T14:55:45.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732461670336.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拉新项目—老客带新]]></title>
+        <id>https://vblog-git-main-routerzhengs-projects.vercel.app/post/2/</id>
+        <link href="https://vblog-git-main-routerzhengs-projects.vercel.app/post/2/">
+        </link>
+        <updated>2023-01-24T14:55:21.000Z</updated>
+        <content type="html"><![CDATA[<p>👈点左侧栏【首页】可以返回文章列表<br>
+<img src="https://vblog-git-main-routerzhengs-projects.vercel.app/post-images/1732461566369.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
